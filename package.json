@@ -1,0 +1,11 @@
+{
+  "name": "jsit",
+  "version": "2.0.2",
+  "description": "The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web.",
+  "main": "Jit/jit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Garcia Belmonte",
+  "license": "BSD"
+}
